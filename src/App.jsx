@@ -1,7 +1,7 @@
 import "./App.css";
 import { createBrowserRouter, Outlet, RouterProvider } from "react-router-dom";
 
-import Home from "./Component/Pages/Home";
+import Home from "./Pages/Home";
 import Footer from "./Component/Footer";
 
 const AppLayout = () => {

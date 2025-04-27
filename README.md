@@ -63,4 +63,4 @@ To run the project in development mode:
 ## Live URL
 
 You can access the live version of the website here:  
-[Live URL Placeholder](https://your-live-url.com)
+[https://frontend-assignment-mobiusengine.vercel.app/](https://frontend-assignment-mobiusengine.vercel.app/)
